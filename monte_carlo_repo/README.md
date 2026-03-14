@@ -149,7 +149,7 @@ If you use this code in your research, please cite:
              for Regulatory Compliance in High-Risk Artificial Intelligence Systems},
   author  = {Varma, Nikhil; Surti, Chirag},
   journal = {AI \& Society},
-  year    = {2025},
+  year    = {2026},
   publisher = {Springer},
   note    = {Under review}
 }
