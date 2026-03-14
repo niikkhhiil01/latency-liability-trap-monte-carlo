@@ -4,7 +4,7 @@
 
 **Author:** Dr. Nikhil Varma  
 **Affiliation:** Ramapo College of New Jersey, Anisfield School of Business 
-**Journal:** *AI & Society* (Springer), submitted 2025  
+**Journal:** *AI & Society* (Springer), submitted March 2026  
 
 ---
 
