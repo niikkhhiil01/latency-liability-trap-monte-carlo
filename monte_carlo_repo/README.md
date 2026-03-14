@@ -3,7 +3,7 @@
 ## The Trust-Automation Paradox: Autonomous Cryptoeconomic Governance for Regulatory Compliance in High-Risk Artificial Intelligence Systems
 
 **Author:** Dr. Nikhil Varma  
-**Affiliation:** Ramapo College of New Jersey, Anisfield School of Business | Algorand Foundation (Technical Lead, India) | The Digital Economist (Non-Executive Chair & Senior Fellow)  
+**Affiliation:** Ramapo College of New Jersey, Anisfield School of Business 
 **Journal:** *AI & Society* (Springer), submitted 2025  
 
 ---
@@ -147,7 +147,7 @@ If you use this code in your research, please cite:
 @article{varma2025trust,
   title   = {The Trust-Automation Paradox: Autonomous Cryptoeconomic Governance
              for Regulatory Compliance in High-Risk Artificial Intelligence Systems},
-  author  = {Varma, Nikhil},
+  author  = {Varma, Nikhil; Surti, Chirag},
   journal = {AI \& Society},
   year    = {2025},
   publisher = {Springer},
@@ -165,5 +165,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-Dr. Nikhil Varma — nikhil@decentralthink.com  
-Ramapo College of New Jersey | Algorand Foundation | The Digital Economist
+Dr. Nikhil Varma — nvarma@ramapo.edu
+Ramapo College of New Jersey 
+
